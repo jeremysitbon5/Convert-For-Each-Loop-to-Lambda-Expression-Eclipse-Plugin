@@ -1,4 +1,4 @@
-package edu.cuny.citytech.foreachlooptolambda.tests;
+package foreachlooptolambda.tests;
 
 import junit.framework.Test;
 import junit.framework.TestSuite;

@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Default Refactoring Tests
-Bundle-SymbolicName: edu.cuny.citytech.foreachlooptolambda.ui.tests
+Bundle-SymbolicName: fr.lip6.pjava.refactor.ui.tests
 Bundle-Version: 1.0.0
 Bundle-Vendor: New York City College of Technology, City University of New York
-Fragment-Host: edu.cuny.citytech.foreachlooptolambda.ui;bundle-version="1.0.0"
+Fragment-Host: fr.lip6.pjava.refactor.ui;bundle-version="1.0.0.qualifier"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Require-Bundle: org.junit,
  org.eclipse.ltk.ui.refactoring.tests,
@@ -13,4 +13,4 @@ Require-Bundle: org.junit,
 Import-Package: edu.cuny.citytech.refactoring.common.tests,
  org.eclipse.jdt.testplugin,
  org.eclipse.jdt.ui.tests.refactoring
-Export-Package: edu.cuny.citytech.foreachlooptolambda.tests
+Export-Package: foreachlooptolambda.tests
